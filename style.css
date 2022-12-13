@@ -1,1 +1,4 @@
-Style.css
+* {
+   padding: 2;
+   color: red;
+}
